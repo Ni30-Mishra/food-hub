@@ -1,9 +1,5 @@
-![Screenshot 625](https://github.com/Ni30-Mishra
-/food-hub
-/blob/main/Screenshot%20625.png?raw=true)
-![Screenshot 626](https://github.com/Ni30-Mishra
-/food-hub
-/blob/main/Screenshot%20626.png?raw=true)
-![Screenshot 627](https://github.com/Ni30-Mishra
-/food-hub
-/blob/main/Screenshot%20627.png?raw=true)
+Here are some screenshots of the FoodHub application:
+
+![Screenshot 625](a%20(625).png)
+![Screenshot 626](b%20(626).png)
+![Screenshot 627](c%20(627).png)
